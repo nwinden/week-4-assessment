@@ -1,0 +1,8 @@
+
+the sql statement to create the table
+
+CREATE TABLE animals (
+    id serial PRIMARY KEY,
+    animal_type character(60),
+    animal_qty integer
+);

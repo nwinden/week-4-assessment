@@ -1,0 +1,29 @@
+.stuff {
+  width:500px;
+  margin: auto;
+}
+
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+form {
+  width:225px;
+  margin: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  margin: 5px;
+}
+
+.zoo-display{
+  border: 1px solid black;
+  width:300px;
+  margin: 10px  auto;
+}
